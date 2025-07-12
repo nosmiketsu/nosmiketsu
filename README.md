@@ -45,6 +45,18 @@ I'm an innovative and results-driven **Shopify Developer** with over **5 years**
 
 ---
 
+## 📂 My Shopify Developer Resources
+
+### 📁 [Free Shopify Section Templates](https://github.com/nosmiketsu/free-shopify-section)
+> A growing collection of custom-built, reusable **Shopify section templates** you can plug directly into your theme.  
+Perfect for developers who want to build flexible storefronts faster.
+
+### 🧠 [Shopify App Integration Library](https://github.com/nosmiketsu/shopify-app)
+> A personal knowledge base of **real-world Shopify app integrations** including Rebuy Smart Cart and Klaviyo Back-in-Stock.  
+This repo documents how I connect high-impact apps into storefronts for performance and personalization.
+
+---
+
 ## 💼 Recent Experience
 
 ### 🏢 Growth Assistant (OpenStore) — *Lead Shopify Developer*
