@@ -9,7 +9,7 @@ I'm an innovative and results-driven **Shopify Developer** with over **5 years**
 
 ## 🧩 Brands I've Worked With
 
-<p align="center">
+<p align="left">
   <a href="https://jackarcher.com" target="_blank" rel="noopener noreferrer">
     <img src="assets/ja_logo copy.png" alt="Jack Archer" height="60" />
   </a>
@@ -20,6 +20,14 @@ I'm an innovative and results-driven **Shopify Developer** with over **5 years**
   &nbsp;&nbsp;&nbsp;
   <a href="https://skullriderz.com" target="_blank" rel="noopener noreferrer">
     <img src="assets/SR_Logo_Solid.webp" alt="Skull Riderz" height="60" />
+  </a>
+   &nbsp;&nbsp;&nbsp;
+  <a href="https://ritterwool.com" target="_blank" rel="noopener noreferrer">
+    <img src="assets/RTW_LogoPreview_Black copy.webp" alt="Ritter Wool" height="60" />
+  </a>
+   &nbsp;&nbsp;&nbsp;
+  <a href="https://sweattent.com" target="_blank" rel="noopener noreferrer">
+    <img src="assets/Sweat_Tent copy.webp" alt="sweattent" height="60" />
   </a>
 </p>
 
