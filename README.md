@@ -7,6 +7,24 @@ I'm an innovative and results-driven **Shopify Developer** with over **5 years**
 
 ---
 
+## 🧩 Brands I've Worked With
+
+<p align="center">
+  <a href="https://jackarcher.com" target="_blank" rel="noopener noreferrer">
+    <img src="assets/ja_logo copy.png" alt="Jack Archer" height="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://exodrones.com" target="_blank" rel="noopener noreferrer">
+    <img src="assets/exo_logo copy.webp" alt="EXO Drones" height="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://skullriderz.com" target="_blank" rel="noopener noreferrer">
+    <img src="assets/SR_Logo_Solid.webp" alt="Skull Riderz" height="60" />
+  </a>
+</p>
+
+---
+
 ## 🧰 Tech Stack & Skills
 
 - **Shopify & Shopify Plus**
