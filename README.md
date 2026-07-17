@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I'm Kimson Pomento
 
-### 🚀 Lead Shopify & Shopify Plus Developer | eCommerce Performance Strategist | Liquid Expert
+### 🚀 Shopify Plus Consultant | Enterprise eCommerce Solutions | Shopify Integrations & Automation
 
 I'm an innovative and results-driven **Shopify Developer** with over **5 years** of hands-on experience creating high-converting, scalable, and performance-optimized eCommerce stores. I specialize in **Shopify & Shopify Plus**, crafting custom themes and sections using **Liquid, HTML, CSS, JavaScript**, and integrating third-party tools that power seamless user experiences.
 
@@ -36,12 +36,17 @@ I'm an innovative and results-driven **Shopify Developer** with over **5 years**
 ## 🧰 Tech Stack & Skills
 
 - **Shopify & Shopify Plus**
-- **Liquid, HTML5, CSS3, JavaScript, JSON, Ruby**
-- **Performance Optimization** (Site speed, SEO, CRO, KPI Reporting)
-- **Shopify Apps & 3rd-Party Integrations**
-- **Design Tools**: Figma, Canva, Adobe Photoshop
-- **UI/UX Principles**, Mobile-First Design
-- **Agile Development**, Team Collaboration, Sprint Management
+- **Shopify Liquid, HTML5, CSS3, JavaScript (ES6+), TypeScript**
+- **Shopify APIs** (GraphQL, Admin API, Storefront API)
+- **Shopify Functions, Shopify Flow, Checkout Extensibility**
+- **Custom Shopify Apps & Theme Development**
+- **B2B Commerce** (Companies, Catalogs, Customer Accounts)
+- **ERP & Third-Party Integrations** (REST APIs, Webhooks, Celigo, NetSuite)
+- **Performance Optimization** (Core Web Vitals, SEO, Store Performance)
+- **Git & GitHub**, CI/CD, Version Control
+- **Figma**, Canva, Adobe Photoshop
+- **Solution Architecture**, Technical Discovery & Project Estimation
+- **Agile Development**, Cross-functional Collaboration
 
 ---
 
@@ -58,6 +63,15 @@ This repo documents how I connect high-impact apps into storefronts for performa
 ---
 
 ## 💼 Recent Experience
+
+### 🏢 CW Global People — *Shopify Technical Solutions Consultant*
+**April 2025 – Present**
+- Serve as the technical lead for Shopify and Shopify Plus implementation projects from discovery through deployment.
+- Architect custom eCommerce solutions including B2B, Shopify Functions, Shopify Flow automation, and custom applications.
+- Deliver integrations with ERP, CRM, payment gateways, shipping providers, and other enterprise systems.
+- Produce technical documentation, solution proposals, estimates, and implementation strategies for client engagements.
+- Collaborate with cross-functional teams to build scalable, high-performance Shopify experiences.
+- Mentor developers and provide technical direction, code reviews, and solution recommendations.
 
 ### 🏢 Growth Assistant (OpenStore) — *Lead Shopify Developer*
 **May 2022 – July 2025**
